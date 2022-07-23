@@ -29,7 +29,7 @@ const styles = StyleSheet.create({
     borderRadius: 20,
     margin: 8,
     overflow: "hidden",
-    width: '40%'
+    flex: 1,
   },
   innerButtonContainer: {
     backgroundColor: colors.primary500,

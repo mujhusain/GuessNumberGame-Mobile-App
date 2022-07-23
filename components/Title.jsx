@@ -9,13 +9,13 @@ export default Title;
 
 const styles = StyleSheet.create({
   title: {
-    color: colors.accent500,
+    fontFamily:'open-sans-bold',
+    color: "white",
     fontSize: 24,
     textAlign: "center",
     borderWidth: 2,
     borderColor: colors.accent500,
     padding: 10,
     borderRadius: 8,
-    fontWeight:'bold'
   },
 });
